@@ -18,7 +18,8 @@ button_input.forEach((button_class) => {
       input.value = "";
       equal_pressed = 0;
     }
-    //display value of each button
+    //display value of each buttonnpm install tailwindcss
+
     input.value += button_class.value;
   });
 });
