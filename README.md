@@ -24,4 +24,4 @@ To run this application locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Origina-sudo/ALX_Simple_Quiz
